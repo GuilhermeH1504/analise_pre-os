@@ -33,18 +33,6 @@ python main.py
 - `ps5_consolidado.csv`
 - `historico_precos.csv`
 
-## Observações
-
-- Os scrapers usam Playwright em modo não-headless para melhorar a compatibilidade com sites dinâmicos.
-- O GitHub é ideal para versionar esse código e facilitar a visualização dos arquivos.
-- No LinkedIn, você pode compartilhar o link do repositório e um breve resumo do projeto, descrevendo:
-  - o objetivo do projeto (monitorar preços de PS5)
-  - as tecnologias usadas (Python, Playwright)
-  - o que foi aprendido (web scraping, tratamento de dados, automação)
-
-## Sugestão para enviar ao GitHub
-
-```bash
 cd "c:\\Users\\15464\\Desktop\\Machine Learning"
 # repository already initialized locally
 git remote add origin https://github.com/GuilhermeH1504/analise_pre-os.git
