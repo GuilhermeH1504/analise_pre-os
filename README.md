@@ -33,9 +33,3 @@ python main.py
 - `ps5_consolidado.csv`
 - `historico_precos.csv`
 
-cd "c:\\Users\\15464\\Desktop\\Machine Learning"
-# repository already initialized locally
-git remote add origin https://github.com/GuilhermeH1504/analise_pre-os.git
-git branch -M main
-git push -u origin main
-```
